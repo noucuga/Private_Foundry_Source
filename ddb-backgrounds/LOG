@@ -1,0 +1,30 @@
+2024/10/13-11:44:20.983 47b4 Delete type=3 #1
+2024/10/13-11:52:42.038 2170 Level-0 table #5: started
+2024/10/13-11:52:42.154 2170 Level-0 table #5: 2249344 bytes OK
+2024/10/13-11:52:42.201 2170 Delete type=0 #3
+2024/10/13-11:53:07.881 2170 Level-0 table #7: started
+2024/10/13-11:53:08.757 2170 Level-0 table #7: 2317552 bytes OK
+2024/10/13-11:53:08.794 2170 Delete type=0 #4
+2024/10/13-11:53:26.810 2170 Level-0 table #9: started
+2024/10/13-11:53:27.663 2170 Level-0 table #9: 2328431 bytes OK
+2024/10/13-11:53:27.711 2170 Delete type=0 #6
+2024/10/13-12:11:44.954 2170 Level-0 table #11: started
+2024/10/13-12:11:45.513 2170 Level-0 table #11: 1343129 bytes OK
+2024/10/13-12:11:45.559 2170 Delete type=0 #8
+2024/10/13-12:11:45.844 2170 Manual compaction at level-0 from '!items!0YXiA9jEQxUIOfz6' @ 72057594037927935 : 1 .. '!items!zqfWk86T99R9sIV8' @ 0 : 0; will stop at '!items!zqfWk86T99R9sIV8' @ 1063 : 1
+2024/10/13-12:11:45.844 2170 Compacting 2@0 + 1@1 files
+2024/10/13-12:11:46.099 2170 Generated table #12@0: 101 keys, 452425 bytes
+2024/10/13-12:11:46.099 2170 Compacted 2@0 + 1@1 files => 452425 bytes
+2024/10/13-12:11:46.158 2170 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/13-12:11:46.158 2170 Delete type=2 #7
+2024/10/13-12:11:46.175 2170 Delete type=2 #9
+2024/10/13-12:11:46.187 2170 Delete type=2 #11
+2024/10/13-12:11:46.200 2170 Manual compaction at level-0 from '!items!zqfWk86T99R9sIV8' @ 1063 : 1 .. '!items!zqfWk86T99R9sIV8' @ 0 : 0; will stop at (end)
+2024/10/13-12:11:46.200 2170 Manual compaction at level-1 from '!items!0YXiA9jEQxUIOfz6' @ 72057594037927935 : 1 .. '!items!zqfWk86T99R9sIV8' @ 0 : 0; will stop at '!items!zqfWk86T99R9sIV8' @ 1811 : 1
+2024/10/13-12:11:46.200 2170 Compacting 1@1 + 1@2 files
+2024/10/13-12:11:46.514 2170 Generated table #13@1: 101 keys, 452425 bytes
+2024/10/13-12:11:46.514 2170 Compacted 1@1 + 1@2 files => 452425 bytes
+2024/10/13-12:11:46.559 2170 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/13-12:11:46.559 2170 Delete type=2 #5
+2024/10/13-12:11:46.572 2170 Delete type=2 #12
+2024/10/13-12:11:46.955 2170 Manual compaction at level-1 from '!items!zqfWk86T99R9sIV8' @ 1811 : 1 .. '!items!zqfWk86T99R9sIV8' @ 0 : 0; will stop at (end)
