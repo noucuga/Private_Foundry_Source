@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "12",
+    "maximum": "12"
   },
   "authors": [
     {
       "name": "Nou",
+      "url": "https://github.com/noucuga/Private_Foundry_Source/blob/main/module.json",
       "flags": {}
     }
   ],
@@ -245,5 +247,15 @@
       }
     }
   ],
-  "url": "https://github.com/noucuga/Private_Foundry_Source"
+  "url": "https://github.com/noucuga/Private_Foundry_Source/blob/main/module.json",
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "a collection of dnd contend for private use"
 }
