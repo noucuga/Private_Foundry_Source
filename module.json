@@ -259,6 +259,6 @@
   },
   "description": "a collection of dnd contend for private use"
 }
-"manifest":https://github.com/noucuga/Private_Foundry_Source/edit/main/module.json
-"download": https://github.com/noucuga/Private_Foundry_Source/blob/main/Packs.rar
+"manifest":"https://github.com/noucuga/Private_Foundry_Source/edit/main/module.json"
+"download": "https://github.com/noucuga/Private_Foundry_Source/blob/main/Packs.rar"
 }
