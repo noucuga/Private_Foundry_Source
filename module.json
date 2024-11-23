@@ -1,5 +1,5 @@
 {
-  "id": "Nous Majikraft Manual",
+  "id": "cinnars-system",
   "title": "Nou's Majikraft Manual",
   "version": "1.0.0",
   "compatibility": {
@@ -16,7 +16,7 @@
     {
       "name": "cinnars-items",
       "label": "NMM-cinnars-items",
-      "path": "cinnars-items",
+      "path": "packs/cinnars-items",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -27,7 +27,7 @@
     {
       "name": "classes",
       "label": "NMM-classes",
-      "path": "/classes",
+      "path": "packs/classes",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -38,7 +38,7 @@
     {
       "name": "halfbloods",
       "label": "NMM-halfbloods",
-      "path": "halfbloods",
+      "path": "packs/halfbloods",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -49,7 +49,7 @@
     {
       "name": "mrrhexx-monster-classes",
       "label": "mrrhexx-monster-classes",
-      "path": "mrrhexx-monster-classes",
+      "path": "packs/mrrhexx-monster-classes",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -60,7 +60,7 @@
     {
       "name": "lewd-spells",
       "label": "LPHB-Spells",
-      "path": "lewd-spells",
+      "path": "packs/lewd-spells",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -71,7 +71,7 @@
     {
       "name": "ddb-spells",
       "label": "DDB-Spells",
-      "path": "ddb-spells",
+      "path": "packs/ddb-spells",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -82,7 +82,7 @@
     {
       "name": "ddb-races",
       "label": "DDB-Races",
-      "path": "ddb-races",
+      "path": "packs/ddb-races",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -93,7 +93,7 @@
     {
       "name": "ddb-racial-features",
       "label": "DDB-Racial Features",
-      "path": "ddb-racial-features",
+      "path": "packs/ddb-racial-features",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -104,7 +104,7 @@
     {
       "name": "ddb-items",
       "label": "DDB-Items",
-      "path": "ddb-items",
+      "path": "packs/ddb-items",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -115,7 +115,7 @@
     {
       "name": "ddb-renamed-spells",
       "label": "DDB-Renamed Spells",
-      "path": "ddb-renamed-spells",
+      "path": "packs/ddb-renamed-spells",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -126,7 +126,7 @@
     {
       "name": "ddb-subclasses",
       "label": "DDB-Subclasses",
-      "path": "ddb-subclasses",
+      "path": "packs/ddb-subclasses",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -137,7 +137,7 @@
     {
       "name": "pack-12",
       "label": "DDB-Class-Features",
-      "path": "pack-12",
+      "path": "packs/pack-12",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -148,7 +148,7 @@
     {
       "name": "pack-13",
       "label": "DDB-Summons",
-      "path": "pack-13",
+      "path": "packs/pack-13",
       "type": "Actor",
       "system": "dnd5e",
       "ownership": {
@@ -159,7 +159,7 @@
     {
       "name": "pack-14",
       "label": "LPHB-Races",
-      "path": "pack-14",
+      "path": "packs/pack-14",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -170,7 +170,7 @@
     {
       "name": "pack-15",
       "label": "LPHB-Racial Features",
-      "path": "pack-15",
+      "path": "packs/pack-15",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -181,7 +181,7 @@
     {
       "name": "pack-16",
       "label": "DDB-Monsters",
-      "path": "pack-16",
+      "path": "packs/pack-16",
       "type": "Actor",
       "system": "dnd5e",
       "ownership": {
@@ -192,7 +192,7 @@
     {
       "name": "pack-17",
       "label": "DDB-Tabels",
-      "path": "pack-17",
+      "path": "packs/pack-17",
       "type": "RollTable",
       "system": "dnd5e",
       "ownership": {
@@ -203,7 +203,7 @@
     {
       "name": "pack-18",
       "label": "DDB-Feats",
-      "path": "pack-18",
+      "path": "packs/pack-18",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -214,35 +214,36 @@
     {
       "name": "ddb-classes",
       "label": "DDB-Classes",
-      "path": "ddb-classes",
+      "path": "packs/ddb-classes",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     },
     {
       "name": "ddb-backgrounds",
       "label": "DDB-Backgrounds",
-      "path": "ddb-backgrounds",
+      "path": "packs/ddb-backgrounds",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     },
     {
       "name": "ddb-adventures",
-      "label": "DDB-Adventures",
-      "path": "ddb-adventures",
+      "label": "Class&Subclass Features",
+      "path": "packs/ddb-adventures",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
-  ]
+  ],
+  "url": "https://github.com/noucuga/Private_Foundry_Source"
 }
