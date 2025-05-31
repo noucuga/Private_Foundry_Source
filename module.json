@@ -261,7 +261,6 @@
       }
     }
   ],
-  "url": "https://github.com/noucuga/Private_Foundry_Source",
   "relationships": {
     "systems": [
       {
@@ -271,6 +270,9 @@
       }
     ]
   },
+"url": "https://github.com/noucuga/Private_Foundry_Source",
+"Manifest": "https://github.com/noucuga/Private_Foundry_Source/releases/download/test/module.json",
+"Download":"https://github.com/noucuga/Private_Foundry_Source/releases/download/test/Packs.rar",
   "description": "<p>a collection of dnd contend for private use</p>",
   "authors": [
     {
