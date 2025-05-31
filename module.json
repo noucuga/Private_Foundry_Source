@@ -1,9 +1,9 @@
 {
-  "id": "nous-majikraft-manual-updated",
-  "title": "Nou´s Majikraft Manual (Updated)",
+  "id": "nous-majikraft-manual_Git",
+  "title": "Nou´s Majikraft Manual_git",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "13",
+    "minimum": "10",
     "verified": "13"
   },
   "packs": [
@@ -64,7 +64,7 @@
     },
     {
       "name": "ddb-spells",
-      "label": "DDB-Spells",
+      "label": "e-Spells",
       "path": "packs/ddb-spells",
       "type": "Item",
       "system": "dnd5e",
@@ -75,7 +75,7 @@
     },
     {
       "name": "ddb-races",
-      "label": "DDB-Races",
+      "label": "e-Races",
       "path": "packs/ddb-races",
       "type": "Item",
       "system": "dnd5e",
@@ -86,7 +86,7 @@
     },
     {
       "name": "ddb-racial-features",
-      "label": "DDB-Racial Features",
+      "label": "e-Racial Features",
       "path": "packs/ddb-racial-features",
       "type": "Item",
       "system": "dnd5e",
@@ -97,7 +97,7 @@
     },
     {
       "name": "ddb-items",
-      "label": "DDB-Items",
+      "label": "e-Items",
       "path": "packs/ddb-items",
       "type": "Item",
       "system": "dnd5e",
@@ -108,7 +108,7 @@
     },
     {
       "name": "ddb-renamed-spells",
-      "label": "DDB-Renamed Spells",
+      "label": "e-Renamed Spells",
       "path": "packs/ddb-renamed-spells",
       "type": "Item",
       "system": "dnd5e",
@@ -119,7 +119,7 @@
     },
     {
       "name": "ddb-subclasses",
-      "label": "DDB-Subclasses",
+      "label": "e-Subclasses",
       "path": "packs/ddb-subclasses",
       "type": "Item",
       "system": "dnd5e",
@@ -130,7 +130,7 @@
     },
     {
       "name": "pack-12",
-      "label": "DDB-Class-Features",
+      "label": "e-Class-Features",
       "path": "packs/pack-12",
       "type": "Item",
       "system": "dnd5e",
@@ -141,7 +141,7 @@
     },
     {
       "name": "pack-13",
-      "label": "DDB-Summons",
+      "label": "e-Summons",
       "path": "packs/pack-13",
       "type": "Actor",
       "system": "dnd5e",
@@ -174,7 +174,7 @@
     },
     {
       "name": "pack-16",
-      "label": "DDB-Monsters",
+      "label": "e-Monsters",
       "path": "packs/pack-16",
       "type": "Actor",
       "system": "dnd5e",
@@ -185,7 +185,7 @@
     },
     {
       "name": "pack-17",
-      "label": "DDB-Tabels",
+      "label": "e-Tabels",
       "path": "packs/pack-17",
       "type": "RollTable",
       "system": "dnd5e",
@@ -196,7 +196,7 @@
     },
     {
       "name": "pack-18",
-      "label": "DDB-Feats",
+      "label": "e-Feats",
       "path": "packs/pack-18",
       "type": "Item",
       "system": "dnd5e",
@@ -207,7 +207,7 @@
     },
     {
       "name": "ddb-classes",
-      "label": "DDB-Classes",
+      "label": "e-Classes",
       "path": "packs/ddb-classes",
       "type": "Item",
       "system": "dnd5e",
@@ -218,7 +218,7 @@
     },
     {
       "name": "ddb-backgrounds",
-      "label": "DDB-Backgrounds",
+      "label": "e-Backgrounds",
       "path": "packs/ddb-backgrounds",
       "type": "Item",
       "system": "dnd5e",
