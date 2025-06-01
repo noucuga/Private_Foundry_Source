@@ -1,9 +1,11 @@
 {
-  "id": "nous-majikraft-manual_Git",
-  "title": "Nou´s Majikraft Manual_git",
+  "id": "nous-majikraft-manual-updated",
+  "title": "Nou´s Majikraft Manual (Updated)",
   "version": "1.0.0",
+  "manifest": "https://github.com/noucuga/Private_Foundry_Source/releases/latest/download/module.json",
+  "download": "https://github.com/noucuga/Private_Foundry_Source/releases/download/1.0.0/module.zip",
   "compatibility": {
-    "minimum": "10",
+    "minimum": "11",
     "verified": "13"
   },
   "packs": [
@@ -64,7 +66,7 @@
     },
     {
       "name": "ddb-spells",
-      "label": "e-Spells",
+      "label": "Spells",
       "path": "packs/ddb-spells",
       "type": "Item",
       "system": "dnd5e",
@@ -75,7 +77,7 @@
     },
     {
       "name": "ddb-races",
-      "label": "e-Races",
+      "label": "Races",
       "path": "packs/ddb-races",
       "type": "Item",
       "system": "dnd5e",
@@ -86,7 +88,7 @@
     },
     {
       "name": "ddb-racial-features",
-      "label": "e-Racial Features",
+      "label": "Racial Features",
       "path": "packs/ddb-racial-features",
       "type": "Item",
       "system": "dnd5e",
@@ -97,7 +99,7 @@
     },
     {
       "name": "ddb-items",
-      "label": "e-Items",
+      "label": "Items",
       "path": "packs/ddb-items",
       "type": "Item",
       "system": "dnd5e",
@@ -108,7 +110,7 @@
     },
     {
       "name": "ddb-renamed-spells",
-      "label": "e-Renamed Spells",
+      "label": "Renamed Spells",
       "path": "packs/ddb-renamed-spells",
       "type": "Item",
       "system": "dnd5e",
@@ -119,7 +121,7 @@
     },
     {
       "name": "ddb-subclasses",
-      "label": "e-Subclasses",
+      "label": "Subclasses",
       "path": "packs/ddb-subclasses",
       "type": "Item",
       "system": "dnd5e",
@@ -130,7 +132,7 @@
     },
     {
       "name": "pack-12",
-      "label": "e-Class-Features",
+      "label": "Class-Features",
       "path": "packs/pack-12",
       "type": "Item",
       "system": "dnd5e",
@@ -141,7 +143,7 @@
     },
     {
       "name": "pack-13",
-      "label": "e-Summons",
+      "label": "Summons",
       "path": "packs/pack-13",
       "type": "Actor",
       "system": "dnd5e",
@@ -174,7 +176,7 @@
     },
     {
       "name": "pack-16",
-      "label": "e-Monsters",
+      "label": "Monsters",
       "path": "packs/pack-16",
       "type": "Actor",
       "system": "dnd5e",
@@ -185,7 +187,7 @@
     },
     {
       "name": "pack-17",
-      "label": "e-Tabels",
+      "label": "Tabels",
       "path": "packs/pack-17",
       "type": "RollTable",
       "system": "dnd5e",
@@ -196,7 +198,7 @@
     },
     {
       "name": "pack-18",
-      "label": "e-Feats",
+      "label": "Feats",
       "path": "packs/pack-18",
       "type": "Item",
       "system": "dnd5e",
@@ -207,7 +209,7 @@
     },
     {
       "name": "ddb-classes",
-      "label": "e-Classes",
+      "label": "basic-Classes",
       "path": "packs/ddb-classes",
       "type": "Item",
       "system": "dnd5e",
@@ -218,7 +220,7 @@
     },
     {
       "name": "ddb-backgrounds",
-      "label": "e-Backgrounds",
+      "label": "Backgrounds",
       "path": "packs/ddb-backgrounds",
       "type": "Item",
       "system": "dnd5e",
@@ -259,8 +261,20 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "Spelllists",
+      "label": "Spell list Journals",
+      "path": "packs/Spelllists",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
+  "url": "https://github.com/noucuga/Private_Foundry_Source",
   "relationships": {
     "systems": [
       {
@@ -270,9 +284,6 @@
       }
     ]
   },
-"url": "https://github.com/noucuga/Private_Foundry_Source",
-"Manifest": "https://github.com/noucuga/Private_Foundry_Source/releases/download/test/module.json",
-"Download":"https://github.com/noucuga/Private_Foundry_Source/releases/download/test/Packs.rar",
   "description": "<p>a collection of dnd contend for private use</p>",
   "authors": [
     {
