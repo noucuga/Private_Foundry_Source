@@ -1,8 +1,19 @@
-2025/05/27-16:17:54.376 5f94 Recovering log #999
-2025/05/27-16:17:54.486 5f94 Delete type=0 #999
-2025/05/27-16:17:54.488 5f94 Delete type=3 #998
-2025/05/27-17:08:20.858 7c0 Level-0 table #1003: started
-2025/05/27-17:08:20.858 7c0 Level-0 table #1003: 0 bytes OK
-2025/05/27-17:08:20.913 7c0 Delete type=0 #1001
-2025/05/27-17:08:20.917 7c0 Manual compaction at level-0 from '!folders!0ltyLXOx2kW3C5qQ' @ 72057594037927935 : 1 .. '!items.effects!zrieTDMRGygT9PG2.M5tVO1Ds0EOkrpYQ' @ 0 : 0; will stop at (end)
-2025/05/27-17:08:20.917 7c0 Manual compaction at level-1 from '!folders!0ltyLXOx2kW3C5qQ' @ 72057594037927935 : 1 .. '!items.effects!zrieTDMRGygT9PG2.M5tVO1Ds0EOkrpYQ' @ 0 : 0; will stop at (end)
+2025/06/01-06:38:37.953 70bc Recovering log #1030
+2025/06/01-06:38:38.075 70bc Delete type=3 #1028
+2025/06/01-06:38:38.078 70bc Delete type=0 #1030
+2025/06/01-06:53:59.663 5294 Level-0 table #1035: started
+2025/06/01-06:53:59.714 5294 Level-0 table #1035: 180954 bytes OK
+2025/06/01-06:53:59.769 5294 Delete type=0 #1033
+2025/06/01-06:53:59.773 5294 Manual compaction at level-0 from '!folders!0ltyLXOx2kW3C5qQ' @ 72057594037927935 : 1 .. '!items.effects!zrieTDMRGygT9PG2.M5tVO1Ds0EOkrpYQ' @ 0 : 0; will stop at (end)
+2025/06/01-06:53:59.773 5294 Manual compaction at level-1 from '!folders!0ltyLXOx2kW3C5qQ' @ 72057594037927935 : 1 .. '!items.effects!zrieTDMRGygT9PG2.M5tVO1Ds0EOkrpYQ' @ 0 : 0; will stop at '!items!yoG6ALAPBydbYMJ5' @ 10497 : 1
+2025/06/01-06:53:59.773 5294 Compacting 1@1 + 3@2 files
+2025/06/01-06:54:00.072 5294 Generated table #1036@1: 1220 keys, 2124140 bytes
+2025/06/01-06:54:00.171 5294 Generated table #1037@1: 1197 keys, 2123183 bytes
+2025/06/01-06:54:00.251 5294 Generated table #1038@1: 1434 keys, 1784567 bytes
+2025/06/01-06:54:00.251 5294 Compacted 1@1 + 3@2 files => 6031890 bytes
+2025/06/01-06:54:00.294 5294 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/06/01-06:54:00.294 5294 Delete type=2 #1021
+2025/06/01-06:54:00.298 5294 Delete type=2 #1022
+2025/06/01-06:54:00.301 5294 Delete type=2 #1023
+2025/06/01-06:54:00.304 5294 Delete type=2 #1035
+2025/06/01-06:54:00.516 5294 Manual compaction at level-1 from '!items!yoG6ALAPBydbYMJ5' @ 10497 : 1 .. '!items.effects!zrieTDMRGygT9PG2.M5tVO1Ds0EOkrpYQ' @ 0 : 0; will stop at (end)
